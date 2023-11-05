@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-The "Kilo to Mile Calculator" app is a simple and user-friendly tool that allows users to effortlessly convert distances from  miles to kilometres  📏
+ BMI (Body Mass Index) app is a user-friendly tool to help you easily calculate your BMI 💪
 <br />
 
 
